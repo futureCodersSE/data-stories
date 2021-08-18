@@ -10,7 +10,7 @@ Carbon Dioxide Emission Estimates.csv
 ## Data preparation
 
 **Tools:**  Python, pandas
-[emissions-data-preparation.ipynb](/Data%20Preparation/emissions-data-preparation.ipynb)  
+[emissions-data-preparation.ipynb](./Data%20Preparation/emissions-data-preparation.ipynb)  
 
 Filter records for Year = 2017 and Series = Emissions (thousand metric tons of carbon dioxide)  
 Sort the records in order of emissions, descending  
@@ -22,7 +22,7 @@ Transpose the rows into columns  (2 rows only)
 ## Data visualisation
 
 **Tools:** Javascript, D3
-[script.js](/Data%20Visualisation/script.js")  
+[script.js](./Data%20Visualisation/script.js")  
 
 Width and height must be the same (square)  
 Background must not distract eye from foreground image  
