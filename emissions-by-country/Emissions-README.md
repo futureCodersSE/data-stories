@@ -46,4 +46,4 @@ Top emitters are, predictably, those with the largest populations and there will
 **Python data wrangler**:  Ano Lawa  
 **Javascript data visualiser**: Nathan Brown   
 **Visual designer**: Abbie Plummer  
-**Support**:  Karen Scott, Jonathan Groves, Carole Ancia  
+**Support**:  Karen Scott, Jonathan Groves, Carole Ancia, Jerlyn Jareunpoon-Phillips  
