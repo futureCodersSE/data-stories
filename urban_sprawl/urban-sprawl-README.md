@@ -43,5 +43,5 @@ People are migrating from rural to urban areas.  Urban living is often less sust
 ## Credits
 **Python data wrangler**:  Safa Kaysir  
 **Javascript data visualiser**: Safa Kaysir  
-**Visual designer**: Design team
+**Visual designer**: Design team  
 **Support**:  Jonathan Groves, Karen Scott, Jerlyn Jareunpoon-Phillips
