@@ -22,7 +22,7 @@ Transpose the rows into columns  (2 rows only)
 ## Data visualisation
 
 **Tools:** Javascript, D3
-[script.js](./Data%20Visualisation/script.js")  
+[script.js](./Data%20Visualisation/script.js)  
 
 Width and height must be the same (square)  
 Background must not distract eye from foreground image  
