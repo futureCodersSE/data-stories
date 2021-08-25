@@ -48,5 +48,5 @@ The whole world needs to work together to help those regions with the highest le
 ## Credits
 **Python data wrangler**:  Safa Kaysir  
 **Javascript data visualiser**: Alyssa Portsmouth  
-**Visual designer**: Abbie Plummer
+**Visual designer**: Abbie Plummer  
 **Support**:  Jerlyn Jareunpoon-Phillips, Jonathan Groves, Karen Scott, Carole Ancia
