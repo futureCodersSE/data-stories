@@ -2,14 +2,14 @@
 
 ## Raw data set
 Land.csv
-[Link]("https://drive.google.com/file/d/1KczTw04OwIbKYKz-Jx1MeJN87THq0_R_/view?usp=sharing")
+[Link]("https://drive.google.com/uc?id=1oAVeevooBzbLwMdczMM1eIxlDeH4_8wo")
 
-**Source**:  [data]("https://drive.google.com/uc?id=1oAVeevooBzbLwMdczMM1eIxlDeH4_8wo") 
+**Source**:  [data]("https://drive.google.com/file/d/1KczTw04OwIbKYKz-Jx1MeJN87THq0_R_/view?usp=sharing") 
   
 
 ## Data preparation
 
-**Tools:**  ..
+**Tools:**  Python, pandas
 [Forest_Cover_2017.ipynb]("Data Preparation/Forest_Cover_2017.ipynb")
 
 Truncate the dataframe to remove all rows after index 682 (remove individual countries)  
@@ -32,7 +32,7 @@ Text must be readable on typical mobile display
 Image must be creatable using code (within the capabilities of the developer)  
 Image must tell the story in the most thought provoking way possible within the constraints of the above.   
 
-[Design idea]("Visualisation Design Idea/Forest-Cover-2017.png")  
+Design idea: A pie chart showing the relative amount of cover between regions  
 
 **Chart type:**  Donut, **Title** REGIONS WITH THE HIGHEST FOREST COVER BY HECTARES
 
