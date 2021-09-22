@@ -11,14 +11,14 @@ NO2-measured-data-2020-2021-Rochester-Stoke
 
 **Tools:**  Python, pandas
 
-[Jennifer_Make_a_visualisation.ipynb](./Data preparation/Jennifer_Make_a_visualisation.ipynb)
+[Jennifer_Make_a_visualisation.ipynb](./Data%20preparation/Jennifer_Make_a_visualisation.ipynb)
 
 **Created during the _Electric Medway Digital Arts Festival_ at the _futureCoders 'Us and the planet on the same page' hackathon workshop_.**
 
 ## Data visualisation
 
 **Tools:** Python, matplotlib
-[Jennifer_Make_a_visualisation.ipynb](./Data visualisation/Jennifer_Make_a_visualisation.ipynb)
+[Jennifer_Make_a_visualisation.ipynb](./Data%20visualisation/Jennifer_Make_a_visualisation.ipynb)
 
 Design idea will be colourful line chart
 
