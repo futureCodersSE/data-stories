@@ -1,4 +1,4 @@
-# Emissions by Country 2017 Data Visualisation Project
+# Air quality by day of week in Medway (Rochester Stoke) Data Visualisation Project
 
 ## Raw data set
 NO2-measured-data-2020-2021-Rochester-Stoke
